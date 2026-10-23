@@ -1,0 +1,74 @@
+[
+  {
+    "id": "KNG001",
+    "nama": "Kesultanan Utsmaniyah",
+    "kontinen": ["Eropa", "Asia", "Afrika"],
+    "kawasan": "Eropa Tenggara & Timur Tengah",
+    "hubunganDiplomatik": [
+      {
+        "kerajaanTujuan": "Kesultanan Aceh",
+        "status": "Aliansi",
+        "catatan": "Bantuan militer & teknisi meriam menghadapi Portugis"
+      },
+      {
+        "kerajaanTujuan": "Kekaisaran Habsburg",
+        "status": "Perang",
+        "catatan": "Perebutan hegemoni di Eropa Tengah"
+      }
+    ],
+    "jalurPerdagangan": [
+      {
+        "namaJalur": "Jalur Sutra & Laut Tengah",
+        "pelabuhanUtama": ["Konstantinopel", "Iskandariyah"],
+        "komoditasEkspor": ["Kain Sutra", "Karpet"],
+        "komoditasImpor": ["Lada", "Cengkeh"],
+        "pengaruhSosial": "Akulturasi budaya, asimilasi bahasa lingua franca perdagangan di pelabuhan."
+      }
+    ],
+    "periode": [
+      {
+        "idPeriode": "PER001",
+        "era": "Masa Puncak Kekuasaan (Abad ke-16)",
+        "tahunAwal": 1520,
+        "tahunAkhir": 1566,
+        "luasWilayahKm2": 5200000,
+        "statusGeopolitik": "Kekaisaran Multi-Benua",
+        "etnis": [
+          { "nama": "Turki", "persentase": 35 },
+          { "nama": "Yunani", "persentase": 25 },
+          { "nama": "Arab", "persentase": 20 },
+          { "nama": "Lainnya", "persentase": 20 }
+        ],
+        "agama": [
+          { "nama": "Islam", "persentase": 55 },
+          { "nama": "Kristen Ortodoks", "persentase": 35 },
+          { "nama": "Yudaisme", "persentase": 10 }
+        ],
+        "penguasa": {
+          "namaRaja": "Sultan Suleiman I",
+          "gelar": "Suleiman the Magnificent / Al-Qanuni",
+          "tahunLahir": 1494,
+          "tahunWafat": 1566,
+          "masaBertahta": "1520 - 1566",
+          "etnisAsal": "Turki",
+          "agama": "Islam",
+          "silsilah": {
+            "dinasti": "Utsmaniyah (House of Osman)",
+            "ayah": "Sultan Selim I",
+            "ibu": "Hafsa Sultan",
+            "pasangan": ["Hürrem Sultan"],
+            "penerusTahta": "Sultan Selim II"
+          },
+          "biografiSingkat": "Penguasa ke-10 yang membawa Utsmaniyah ke puncak kejayaan militer dan hukum."
+        },
+        "peristiwaSejarah": [
+          {
+            "tahun": 1526,
+            "namaEvent": "Pertempuran Mohács",
+            "deskripsi": "Ekspansi Utsmaniyah ke wilayah Hungaria"
+          }
+        ]
+      }
+    ]
+  }
+]
